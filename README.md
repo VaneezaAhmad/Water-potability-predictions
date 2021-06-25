@@ -41,6 +41,6 @@ We tried to reduce features to check if there was any kind of relationship betwe
 
 ### Authors 
 
-[Clare Dunne](github)
+[Clare Dunne](http://github.com/clareadunne)
 
 [Vaneeza Ahmad](https://github.com/VaneezaAhmad)
